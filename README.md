@@ -4,6 +4,5 @@ Hi, I'm Sujit K A, a second-year B.Tech student in Computer Science and Informat
 * Interest: Understanding how software and machines work
 * Goal: Contribute to open 
 
-# BRANCHING
-   ## Projects
-   Building a portfolio website to showcase my coursework and code, and learning Git and GitHub along the way.
+## Projects
+Building a portfolio website to showcase my coursework and code, and learning Git and GitHub along the way.
